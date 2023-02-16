@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas
 
 
 st.title("Buloze Alfani")
@@ -13,3 +14,15 @@ on my skills as a programmer. I hope you enjoy.
 st.info(content)
 
 st.subheader("Below you can find some of the apps I have built in Python. Feel free to contact me!")
+
+col1, col2 = st.columns(2)
+
+data_frama = pandas.read_csv('data.csv', sep=';')
+
+with col1:
+    for index, row in data_frama[:10].iterrows():
+        st.header(row['title'])
+
+with col2:
+    for index, row in data_frama[10:].iterrows():
+        st.header(row['title'])
