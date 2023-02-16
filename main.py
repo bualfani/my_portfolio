@@ -11,3 +11,5 @@ I had fun building these projects because a lot of them really challenged me
 on my skills as a programmer. I hope you enjoy.
 """
 st.info(content)
+
+st.subheader("Below you can find some of the apps I have built in Python. Feel free to contact me!")
