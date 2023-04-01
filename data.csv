@@ -1,7 +1,7 @@
 title;description;url;image
 ChatGPT OpenAI Chatbot;A chatbot built that can discuss anything with a human and is built using the OpenAI API.;https://github.com/bualfani/chatbot_gpt_gui;10.png
 Trading Bot;A Algorithmic trading bot built on python that trades both crypto and stocks on the robin_stock library.;https://github.com/bualfani/trading-bot;15.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/bualfani/my_portfolio;2.png
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/bualfani/my-todo-app;1.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/bualfani/pdf_template;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/bualfani/Excel-invoice-to-PDF;4.png
