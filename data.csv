@@ -8,7 +8,7 @@ PDF Invoices;A script that reads invoice records from Excel files and automatica
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/bualfani/emai-news-api;5.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://github.com/bualfani/download_cleaner;7.png
 Student Management System SQL;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/bualfani/student_management_sysem_sql;17.png
-Student Management System MySQL;A desktop PyQt6 GUI app for managing complex university student data with an MySQL database backend.;https://pythonhow.com;18.png
+Student Management System MySQL;A desktop PyQt6 GUI app for managing complex university student data with an MySQL database backend.;https://github.com/bualfani/student_management_system_mysql;18.png
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/bualfani/webcame_detection;11.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/bualfani/scraping_tour;8.png
 Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://github.com/bualfani/word_count;12.png
