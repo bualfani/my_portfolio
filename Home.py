@@ -31,7 +31,7 @@ with col1:
 
 
 with col3:
-    for index, row in data_frama[8:16].iterrows():
+    for index, row in data_frama[8:17].iterrows():
         st.header(row['title'])
         st.write(row['description'])
         st.image("images/" + row['image'])
